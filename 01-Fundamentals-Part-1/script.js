@@ -1,8 +1,8 @@
-let js = "amazing";
-console.log(40 + 8 + 23 - 10); 
+// let js = "amazing";
+// console.log(40 + 8 + 23 - 10); 
 
-var firstName = 'Marina';
-console.log(firstName);
+// var firstName = 'Marina';
+// console.log(firstName);
 
 /* 
     LECTURE: Values and Variables
@@ -19,3 +19,9 @@ console.log(firstName);
     console.log(population);
 */
 
+let javascriptIsFun = true; 
+console.log(javascriptIsFun);           // true
+console.log(typeof javascriptIsFun);    // boolean
+console.log(typeof 'Marina');           // string   
+console.log(typeof 23);                 // number   
+console.log(typeof 23.5);               // number
