@@ -4,24 +4,21 @@
 // var firstName = 'Marina';
 // console.log(firstName);
 
-/* 
-    LECTURE: Values and Variables
+// const now = 2037; 
 
-    1. Declare variables called 'country', 'continent' and 'population' and assign their values according to your own country (population in millions);
-    2. Log their values to the console
+// const ageJonas = now - 1991;
+// const ageSarah = now - 2018;  
 
-    let country = 'Brazil',
-    let continent = 'South America';
-    let population = 214,3
+// console.log(ageJonas); 
+// console.log(ageSarah);
 
-    console.log(country);
-    console.log(continent);
-    console.log(population);
-*/
+// console.log(ageJonas * 2, ageJonas / 10, 2 ** 3);
+// // 2 ** 3 means 2 to the power of 3 = 2 * 2 * 2.
 
-let javascriptIsFun = true; 
-console.log(javascriptIsFun);           // true
-console.log(typeof javascriptIsFun);    // boolean
-console.log(typeof 'Marina');           // string   
-console.log(typeof 23);                 // number   
-console.log(typeof 23.5);               // number
+// const firstName = 'Jonas';
+// const lastName = 'Schmedtmann';
+
+// console.log(firstName + ' ' + lastName);
+
+// let x = 10 + 5; // 15
+
