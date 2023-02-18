@@ -1,25 +1,21 @@
-// let js = "amazing";
-// console.log(40 + 8 + 23 - 10); 
+// Type Conversition
 
-// var firstName = 'Marina';
-// console.log(firstName);
+const inputYear = '1991';
 
-// const now = 2037; 
+console.log(Number(inputYear), inputYear);
+console.log(inputYear + 18);
 
-// const ageJonas = now - 1991;
-// const ageSarah = now - 2018;  
+console.log(Number(inputYear) + 19);
+console.log(typeof NaN); // number
+console.log(String(19)); 
 
-// console.log(ageJonas); 
-// console.log(ageSarah);
+// Type Coersion
+console.log('I am ' + 21 + ' years old');
+console.log('23' - '10' - 3); // 10
+console.log('23' / '2');
 
-// console.log(ageJonas * 2, ageJonas / 10, 2 ** 3);
-// // 2 ** 3 means 2 to the power of 3 = 2 * 2 * 2.
+let n = '1' + 1; // 11
+n = n - '1'; // 10
 
-// const firstName = 'Jonas';
-// const lastName = 'Schmedtmann';
-
-// console.log(firstName + ' ' + lastName);
-
-// let x = 10 + 5; // 15
-
+console.log(n); 
 
