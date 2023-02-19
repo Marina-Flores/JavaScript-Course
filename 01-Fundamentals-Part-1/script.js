@@ -1,4 +1,4 @@
-// Type Conversition
+// Type Conversion
 
 const inputYear = '1991';
 
